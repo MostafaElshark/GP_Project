@@ -1,0 +1,5 @@
+fuzzywuzzy==0.18.0
+nltk==3.7
+numpy==1.23.3
+pandas==1.5.0
+recordlinkage==0.16
